@@ -37,11 +37,12 @@
 * Install Expo, command line, development tool with the node package manager (`npm`)<br>
   Run `npm i -g expo-cli`
 * Create an Expo account
-* Create the app template with the Expo development tool<br>
+* Create the app template with the Expo development tool using react-native-todo as name<br>
   Run `expo init react-native-todo`<br>
   Choose blank
-* Move to the created app folder<br>
+* Move to the created app folder react-native-todo<br>
   Run `cd react-native-todo`
+* Copy App.js & Todo.js from this repository to the react-native-todo folder
 * Start the app with `npm`<br>
   Run `npm start`<br>
   Choose w (browser)
