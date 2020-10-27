@@ -22,7 +22,7 @@
     <a href="https://expo.io/">
       <img src="https://img.shields.io/badge/Powered%20by-Expo-yellow" />
     </a>
-    <img src="https://img.shields.io/badge/Runs%20on-Android & iOS-yellow" />
+    <img src="https://img.shields.io/badge/Runs%20on-Android, iOS, & Web-yellow" />
   </p>
 
 ## Description
