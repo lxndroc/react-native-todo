@@ -61,5 +61,5 @@ To ask for help with running the app, you can contact us on [Instagram](https://
 * For suggestions or financial support to improve the app you can contact us on [Instagram](https://instagram.com/aoctut/).
 * For code improvements you can fork this repository, make improvements, and submit them via a pull request.
 ## Credit
-* #cpfam
+* [#cpfam](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ)
 #### + THANK YOU FOR BEING HERE 🙏+
