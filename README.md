@@ -26,29 +26,29 @@
   </p>
 
 ## Description
-* Type: Mobile app<br>
-* Purpose: Adds todo tasks<br>
-* Built with: React Native<br>
-* Architecture: Functional Components<br>
-* Powered by: Expo<br>
+* Type: Mobile app
+* Purpose: Adds todo tasks
+* Built with: React Native
+* Architecture: Functional Components
+* Powered by: Expo
 * Runs on: Android & iOS
 ## Installation - On Laptop
-* Install [Node.js](https://nodejs.org/en/)</a><br>
-* Install Expo, command line, development tool with the node package manager (`npm`)
-  Run `npm i -g expo-cli`<br>
-* Create an Expo account<br>
-* Create the app template with the Expo development tool
+* Install [Node.js](https://nodejs.org/en/)</a>
+* Install Expo, command line, development tool with the node package manager (`npm`)<br>
+  Run `npm i -g expo-cli`
+* Create an Expo account
+* Create the app template with the Expo development tool<br>
   Run `expo init react-native-todo`<br>
-  Choose blank<br>
-* Move to the created app folder
-  Run `cd react-native-todo`<br>
-* Start the app with `npm`
+  Choose blank
+* Move to the created app folder<br>
+  Run `cd react-native-todo`
+* Start the app with `npm`<br>
   Run `npm start`<br>
   Choose w (browser)
 ## Execution - On Mobile
 * Install Expo Client app<br>
  For [Android](https://play.google.com/store/apps/details?id=host.exp.exponent)<br>
- For [iOS](https://apps.apple.com/us/app/expo-client/id982107779)</a><br>
+ For [iOS](https://apps.apple.com/us/app/expo-client/id982107779)</a>
 * Scan the QR code using the Expo Client<br>
  Visit [localhost port 19002](http://localhost:19002) on the laptop if the QR code is not appearing
 ## Interaction - On Mobile
