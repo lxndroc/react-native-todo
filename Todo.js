@@ -13,4 +13,4 @@ const Todo = ({ title }) => {
     </View>
   )
 }
-export default Todo
+export default Todo;
