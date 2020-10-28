@@ -1,6 +1,6 @@
 <h1 align="center">+ React Native Todo App v2020-10 +</h1>
 <p align="center">
-  <h3 align='center'>Adds Todo Tasks</h3>
+  <h3 align='center'>Adds & Displays Todo Tasks</h3>
 </p>
   <p align="center">⭐️ & 🔱</p>
   <p align="center">
@@ -19,19 +19,13 @@
     <a href="https://reactnative.dev/">
       <img src="https://img.shields.io/badge/Built%20with-React Native-yellow" />
     </a>
+    <img src="https://img.shields.io/badge/Architecture-Functional Components & Hooks-yellow" />
     <a href="https://expo.io/">
       <img src="https://img.shields.io/badge/Powered%20by-Expo-yellow" />
     </a>
     <img src="https://img.shields.io/badge/Runs%20on-Android, iOS, & Web-yellow" />
   </p>
 
-## Description
-* Type: Mobile app
-* Purpose: Adds todo tasks
-* Built with: React Native
-* Architecture: Functional Components
-* Powered by: Expo
-* Runs on: Android & iOS
 ## Installation - On Laptop
 * Install [Node.js](https://nodejs.org/en/)</a>
 * Install Expo, command line, development tool with the node package manager (`npm`)<br>
